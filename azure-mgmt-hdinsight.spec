@@ -4,7 +4,7 @@
 #
 Name     : azure-mgmt-hdinsight
 Version  : 1.4.0
-Release  : 6
+Release  : 7
 URL      : https://files.pythonhosted.org/packages/e4/ea/f13b7b9ea9f4fb39c84829d2c0d5fda8c11a0c9fc51432bc0712bba85510/azure-mgmt-hdinsight-1.4.0.zip
 Source0  : https://files.pythonhosted.org/packages/e4/ea/f13b7b9ea9f4fb39c84829d2c0d5fda8c11a0c9fc51432bc0712bba85510/azure-mgmt-hdinsight-1.4.0.zip
 Summary  : Microsoft Azure HDInsight Management Client Library for Python
